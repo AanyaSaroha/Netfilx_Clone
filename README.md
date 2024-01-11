@@ -1,1 +1,1 @@
-# Netfilx_Clone by Aanya Saroha
+# netfilx_clone_by_html_css by Aanya Saroha
