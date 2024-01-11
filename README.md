@@ -8,6 +8,3 @@ HTML: For structuring the content of the web pages.
 
 CSS: For styling and layout purposes.
 
-link for my website
-
-file:///C:/Users/saroh/OneDrive/Desktop/netfilx_clone_by_html_css-main%20by%20AanyaSaroha/nhtml.html
