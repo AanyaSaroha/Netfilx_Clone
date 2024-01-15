@@ -9,5 +9,7 @@ HTML: For structuring the content of the web pages.
 CSS: For styling and layout purposes.
 
 
+
+
 ![image](https://github.com/AanyaSaroha/Netfilx_Clone/assets/139048562/1cd85cbf-5ff9-4e7f-9533-50c78d0d8b68)
 
